@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 ### Hi there 👋, I am [Nishant](https://www.iamnishant.engineer/)! 😁
 
 
-Hello, my name is Nishant Mishra and I am a graduate from [SRM Inst. of Science and Technology](https://www.srmist.edu.in/) B.tech in Computer Science.I’m an Associate Analyst at [InfoCepts](https://www.infocepts.com/). I turn coffee ☕ into code, use tabs over spaces and a Machine Learning Enthusiast.
+Hello, my name is Nishant Mishra and I am a graduate from [SRM Inst. of Science and Technology](https://www.srmist.edu.in/) (B.tech CSE).I’m an Associate Analyst at [InfoCepts](https://www.infocepts.com/). I turn coffee ☕ into code, use tabs over spaces, and interested in Machine Learning and Data Science.
 I am most skilled in: Data Analysis and Eating Pizza
 
 - 💻 I’m currently working on my Big Data Ecosystem
