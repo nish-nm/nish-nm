@@ -14,7 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-### Hi there 👋, I am Nishant<!-- (https://www.iamnishant.engineer/)! 😁
+### Hi there 👋, I am Nishant
+<!-- (https://www.iamnishant.engineer/)
 
 
 Hello, my name is Nishant Mishra and I am a graduate from [SRM Inst. of Science and Technology](https://www.srmist.edu.in/) (B.tech CSE). I turn coffee ☕ into code, use tabs over spaces, and interested in Machine Learning and Data Science.
